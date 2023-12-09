@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hadiah1</string>
+    <string name="title_home">Home</string>
+    <string name="title_notification">Notification</string>
+    <string name="title_akun">Akun</string>
+    <string name="title_done">Done</string>
+    <string name="title_setting">Setting</string>
+</resources>
